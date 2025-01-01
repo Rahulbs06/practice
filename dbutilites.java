@@ -1,3 +1,3 @@
  Hi this is rahul practicing git commands
-this file is also moved from staging to local
-modified the dbutilities......
+ This is reverting back from staging area
+modified in development branch
